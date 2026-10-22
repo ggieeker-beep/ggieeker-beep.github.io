@@ -4,7 +4,6 @@ date: 2026-10-22
 author: IEEKER Embedded Engineering Team
 description: Practical guide for hardware engineers to build a no-screen offline AI voice hardware based on RK3568, including SOM selection, local ASR TTS, OS and ODM customization.
 tags: [RK3568, offline AI voice, local ASR TTS, embedded board, AIoT]
-canonical: https://ieeker.com/how-to-build-offline-ai-voice-device-with-rk3568
 ---
 
 How to Build an Offline AI Voice Device with the RK3568
