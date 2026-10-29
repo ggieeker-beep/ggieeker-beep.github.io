@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "RK3588 Industrial Edge Computing SOM from Ieeker"
-date: 2026-10-29
+date: 2026-10-28
 categories: rk3588 som ieeker
 ---
 The Rockchip RK3588 isn’t just another chip—it’s an 8-core powerhouse popping up in all sorts of places: industrial AI, machine vision setups, smart gateways, you name it. It’s built to handle tough, on-the-spot AI jobs, and you won’t need the cloud to get serious results. Thanks to its built-in NPU pushing out 6 TOPS of AI performance, you can run heavy-duty AI tasks right where the data happens, with no internet lag in the way.
@@ -25,7 +25,7 @@ This setup grabs data from sensors, PLCs, and cameras, does the pre-processing u
 ### Offline AI Voice & Multimedia
 With beefy video chops, this module is perfect for offline voice assistants, multi-screen displays, and devices that need to play back media locally—no internet required.
 
-## Why Choose a Ready-Made SOM instead of Custom PCB
+## Why Choose a Ready-Made SOM instead of a Custom PCB
 Designing your own mainboard for the RK3588 isn’t easy—it takes a lot of skill, time, and patience to get the layered PCB right and prove it’s reliable. By using a commercial SOM, you get solid, tested hardware and support for the long haul. That matters if your device needs to last 3 to 7 years in production.
 
 ## Software Support
