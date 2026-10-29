@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "RK3588 Industrial Edge Computing SOM from Ieeker"
-date: 2026-10-28
+date: 2026-10-29
 categories: rk3588 som ieeker
+permalink: /2026/10/28/rk3588-edge-computing-som-ieeker.html
 ---
 The Rockchip RK3588 isn’t just another chip—it’s an 8-core powerhouse popping up in all sorts of places: industrial AI, machine vision setups, smart gateways, you name it. It’s built to handle tough, on-the-spot AI jobs, and you won’t need the cloud to get serious results. Thanks to its built-in NPU pushing out 6 TOPS of AI performance, you can run heavy-duty AI tasks right where the data happens, with no internet lag in the way.
 
