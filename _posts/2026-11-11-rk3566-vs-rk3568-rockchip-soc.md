@@ -1,8 +1,9 @@
 ---
+layout: post
 title: "RK3566 vs RK3568: Which Rockchip Board for Your Budget and Use Case?"
 date: 2026-11-11
-categories: embedded edge-AI rockchip
-tags: RK3566 RK3568 embedded SBC industrial vision
+permalink: /rk3566-vs-rk3568-rockchip-soc/
+tags: rk3566 rk3568 rockchip edge-ai linux industrial-embedded machine-vision
 ---
 
 # RK3566 vs RK3568: Which Rockchip Board for Your Budget and Use Case?
